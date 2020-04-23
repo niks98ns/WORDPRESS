@@ -1,0 +1,23 @@
+/*
+Theme Name: Twenty Seventeen/Child Theme
+Author: NIKHIL SHARMA
+Description: Bootstrap Blog template converted to WordPress
+Version: 0.0.1
+Tags: bootstrap
+*/
+
+
+.navbr ul li {
+    display: inline-block;
+    padding: 33px;
+}
+
+.menu-top-menu-container {
+    float: right;
+}
+
+.navbr ul li {
+    display: inline-block;
+    padding: 10px;
+    float:left;
+}

@@ -1,0 +1,361 @@
+/*
+Theme Name: TwentySeventeenChild
+Author: NIKHIL SHARMA
+Description: Bootstrap Blog template converted to WordPress
+Version: 0.0.1
+Tags: bootstrap
+*/
+body{
+
+    margin-top:0;
+    
+    
+} 
+.navbar{
+  
+  height:80px;
+  padding-left:60px;
+  
+}
+
+.navbar a {
+    color: grey;
+    
+    margin-right:20px;
+    font-size:16px;
+    font-weight:20px;
+    
+}
+.navbr ul li {
+    display: inline-block;
+    padding: 20px;
+    
+    
+    
+}
+
+.menu-top-menu-container {
+   height:70px;
+   padding-bottom:200px; 
+   margin-top: -11px; 
+
+}
+
+.navbr ul li {
+    display: inline-block;
+    padding:1px;
+    
+}
+
+
+.text-center{
+    background-color:white;
+}
+.color{
+    background-color:white;
+    height:100px;
+}
+
+
+
+
+
+
+
+
+
+.header
+{
+    
+    
+    padding-top: 7px;
+    
+    background-color:white;
+
+    
+  }
+.bg-1 
+{ 
+  height:50px;
+  width:100px;
+  padding-top: 7px;
+  
+}
+.bg-5
+{ 
+ color:red;
+ 
+  
+}
+
+
+.image
+  {
+    height:700px;
+    width:600px;
+  }
+.design
+{
+  color:rgb(56, 52, 52);
+  padding-right:80%;
+  margin-top:4%;
+  font-weight: 400;
+}
+.design1
+{
+  color:grey;
+  line-height: 1.35;
+  font-weight: 500;
+  padding-right:3%;
+  /* padding-left:7%; */
+
+
+  padding-top: 15px;
+
+}
+
+.client
+{
+  width:360px;
+
+}
+.client2
+{
+  width:360px;
+
+}
+.client3
+{
+  width:360px;
+
+}
+.client4
+{
+  width:360px;
+
+}
+.client5
+{
+  width:360px;
+
+}
+.client6
+{
+  width:360px;
+
+}
+.client7
+{
+  width:360px;
+
+}
+.client8
+{
+  width:360px;
+
+}
+.client9
+{
+  width:360px;
+
+}
+.button1
+{
+  padding-top:5%;
+  /* padding-right:70%; */
+  color:grey;
+  z-index: 1;
+}
+.contact
+{
+  padding-top:5%;
+
+}
+.contact1
+{
+  padding-top:3%;
+  font-weight: 500;
+  color:black;
+  
+  font-weight: 400;
+}
+.contact2
+{
+  
+  font-weight: 300;
+  color:grey;
+  
+  
+}
+
+
+
+/* DESIGN PAGE */
+
+
+
+.bg-1 
+{ 
+    height:110px;
+    width:200px;
+    padding-top: 5px;
+    margin-top:-28px;
+    
+}
+ /* .bg-2 
+{ 
+        display: inline-block;
+        margin-top:-80px;       
+} */
+.design1
+{
+  font-size:17px;
+  font-weight:20%;
+  color:grey;
+}
+.design11
+{
+    font-size:14px;
+    
+    color:red;
+}
+.list
+{
+  font-size:14px;
+    
+    color:grey;
+}
+.footer
+{
+ 
+  font-size:15px;
+  letter-spacing: 1px;
+  color: rgb(27, 27, 27);
+  font-weight: 400;
+  text-transform: uppercase;
+}
+
+
+/* MARKETING PAGE */
+
+.pp{
+    font-size:17px;
+}
+
+
+/* ABOUT US */
+
+.about{
+  height: 500px;
+  margin-left: 20px;
+    
+}
+.bg-color{
+  background-color: rgb(246, 246, 246);
+
+  height:300px;
+}
+.buttonn{
+  margin-left: 20px;
+ 
+}
+.margin{
+  padding-top: 30px;
+  color:rgb(80, 74, 74);
+}
+.margin1{
+  padding-top: 30px;
+  color:rgb(80, 74, 74);
+  letter-spacing: 1px;
+  font-size:17px;
+}
+
+/* ABOUT US */
+
+.pp1{
+  font-size:15px;
+  letter-spacing: 1px;
+  color: rgb(27, 27, 27);
+  font-weight: 400;
+  text-transform: uppercase;
+  
+}
+
+.contact{
+  font-size:10px;
+  letter-spacing: 1px;
+  color: rgb(107, 102, 102);
+  font-weight: 400;
+  text-transform: uppercase;
+  
+}
+.contacts{
+  font-size:10px;
+  letter-spacing: 1px;
+  color: rgb(107, 102, 102);
+  font-weight: 400;
+  
+  }
+.button2{
+  width:60%;
+  
+  color: white;
+  box-shadow: 5px 5px 0px;
+  
+  z-index: -1;
+  transition: all 0.3s ease 0s;
+  background-color: black;
+}
+
+
+
+
+
+/* PAGES */
+
+.dropbtn {
+  
+  color: white;
+  padding: 16px;
+  font-size: 16px;
+  border: none;
+  
+}
+
+.dropdown {
+  position: relative;
+  display: inline-block;
+  
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: white;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+  
+}
+
+.dropdown-content a {
+  color: grey;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+  
+
+  
+}
+
+.dropdown-content a:hover {background-color: #ddd;}
+
+.dropdown:hover .dropdown-content {display: block;color: grey;}
+
+a {
+    color: grey;
+    text-decoration: none;
+} 
+
+
+
